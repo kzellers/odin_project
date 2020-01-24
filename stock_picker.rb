@@ -1,3 +1,7 @@
+#stock_picker.rb
+#description: chooses best day to buy and sell stock
+#usage: ruby stock_picker.rb
+
 def pick_stocks(stocks)
    stocks =  stocks[0]
    max_profit = 0
